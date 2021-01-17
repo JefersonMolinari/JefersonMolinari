@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### I'm currently:
 - 🔭 Working on:
-  - [F1 Fantasy simulator](https://github.com/JefersonMolinari/jeff-fantasy-sim)
+  - [F1-fantasy-simulator](https://github.com/JefersonMolinari/F1-fantasy-simulator)
 - 🌱 Learning:
   - UI/UX.
 - 📚 Reading:
